@@ -1,0 +1,560 @@
+BEGIN:VCALENDAR
+PRODID:-//New York City Department of Education//SitefinityWebApp iCal Generator//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20230406T000000
+DTEND:20230407T000000
+DTSTAMP:20220909T020154Z
+UID:3316c16f-5090-4b45-99ac-e696456a359e
+CREATED:20220909T020154Z
+DESCRIPTION:First Day of Passover, schools closed
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:First Day of Passover, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/04/06/default-calendar/first-day-of-passover-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230324T000000
+DTEND:20230325T000000
+DTSTAMP:20220909T020154Z
+UID:ea19c038-8c49-4720-b6ce-95e95450e2c4
+CREATED:20220909T020154Z
+DESCRIPTION:Afternoon Parent-Teacher Conferences for high schools, K&ndash;12, and 6&ndash;12 schools; students in these schools dismissed three hours early.
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Afternoon Parent-Teacher Conferences for high schools, K–12, and 6–12 schools; students in these schools dismissed three hours early.
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/03/24/default-calendar/afternoon-parent-teacher-conferences-for-high-schools-k-12-and-6-12-schools-students-in-these-schools-dismissed-three-hours-early
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221118T000000
+DTEND:20221119T000000
+DTSTAMP:20220909T020154Z
+UID:0e7b8c23-9418-4a1b-b237-6713bcf77921
+CREATED:20220909T020154Z
+DESCRIPTION:Afternoon Parent-Teacher Conferences for high schools, K&ndash;12, and 6&ndash;12 schools; students in these schools dismissed three hours early.
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Afternoon Parent-Teacher Conferences for high schools, K–12, and 6–12 schools; students in these schools dismissed three hours early.
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/11/18/default-calendar/afternoon-parent-teacher-conferences-for-high-schools-k-12-and-6-12-schools-students-in-these-schools-dismissed-three-hours-early
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220926T000000
+DTEND:20220928T000000
+DTSTAMP:20220909T020154Z
+UID:ef1bc908-a0c7-42cd-8948-cfed1c38de6c
+CREATED:20220909T020154Z
+DESCRIPTION:Rosh Hashanah, schools closed Monday &amp; Tuesday - September 26&ndash;27
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rosh Hashanah, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/09/26/default-calendar/rosh-hashanah-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230323T000000
+DTEND:20230324T000000
+DTSTAMP:20220909T020154Z
+UID:9ad2bca1-11ef-4d03-8d72-be1cec6797cc
+CREATED:20220909T020154Z
+DESCRIPTION:Evening Parent-Teacher Conferences for high schools, K&ndash;12, and 6&ndash;12 schools
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Evening Parent-Teacher Conferences for high schools, K–12, and 6–12 schools
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/03/23/default-calendar/evening-parent-teacher-conferences-for-high-schools-k-12-and-6-12-schools
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230309T000000
+DTEND:20230310T000000
+DTSTAMP:20220909T020154Z
+UID:78654f7e-9f22-4267-9f2e-5bc2a142d314
+CREATED:20220909T020154Z
+DESCRIPTION:Afternoon and Evening Parent-Teacher Conferences for elementary schools and Pre-K Centers; students in these schools dismissed three hours early.
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Afternoon and Evening Parent-Teacher Conferences for elementary schools and Pre-K Centers; students in these schools dismissed three hours early.
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/03/09/default-calendar/afternoon-and-evening-parent-teacher-conferences-for-elementary-schools-and-pre-k-centers-students-in-these-schools-dismissed-three-hours-early
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230511T000000
+DTEND:20230512T000000
+DTSTAMP:20220909T020155Z
+UID:05d8101e-6f67-4693-ba8c-f443aa190899
+CREATED:20220909T020155Z
+DESCRIPTION:Evening Parent-Teacher Conferences for middle schools and D75 schools
+LAST-MODIFIED:20220909T020155Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Evening Parent-Teacher Conferences for middle schools and D75 schools
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/05/11/default-calendar/evening-parent-teacher-conferences-for-middle-schools-and-d75-schools
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221124T000000
+DTEND:20221126T000000
+DTSTAMP:20220909T020155Z
+UID:f92961f6-c37a-4108-abb9-9425e06c2bb7
+CREATED:20220909T020155Z
+DESCRIPTION:Thanksgiving Recess, schools closed
+LAST-MODIFIED:20220909T020155Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Thanksgiving Recess, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/11/24/default-calendar/thanksgiving-recess-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230619T000000
+DTEND:20230620T000000
+DTSTAMP:20220909T020154Z
+UID:cef97165-6160-4eaf-a3dc-9e92f8b91179
+CREATED:20220909T020154Z
+DESCRIPTION:Juneteenth, schools closed
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Juneteenth, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/06/19/default-calendar/juneteenth-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221010T000000
+DTEND:20221011T000000
+DTSTAMP:20220909T020154Z
+UID:8522dae3-82b5-4ad4-bc9f-518c55c330ec
+CREATED:20220909T020154Z
+DESCRIPTION:Italian Heritage / Indigenous Peoples' Day, schools closed
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Italian Heritage / Indigenous Peoples' Day, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/10/10/default-calendar/italian-heritage-indigenous-peoples-day-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230529T000000
+DTEND:20230530T000000
+DTSTAMP:20220909T020154Z
+UID:d4223eeb-0acb-4187-a2d9-4971a7536d74
+CREATED:20220909T020154Z
+DESCRIPTION:Memorial Day, schools closed
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Memorial Day, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/05/29/default-calendar/memorial-day-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230614T000000
+DTEND:20230624T000000
+DTSTAMP:20220909T020154Z
+UID:8607ea01-4407-4c7a-8552-f0c3a6d09367
+CREATED:20220909T020154Z
+DESCRIPTION:Regents Administration (excluding June 19, when schools are closed)  June 14&ndash;23
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Regents Administration (excluding June 19, when schools are closed)
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/06/14/default-calendar/regents-administration-excluding-june-19-when-schools-are-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230410T000000
+DTEND:20230415T000000
+DTSTAMP:20220909T020155Z
+UID:347298eb-46ba-465b-bbd2-0d8c3aed4b8c
+CREATED:20220909T020155Z
+DESCRIPTION:Spring Recess, schools closed  April 10&ndash;14
+LAST-MODIFIED:20220909T020155Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Recess, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/04/10/default-calendar/spring-recess-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220922T200000Z
+DTEND:20220922T210000Z
+DTSTAMP:20220909T020154Z
+UID:e41047b3-3c27-4516-8796-e661f07bc863
+CREATED:20220909T020154Z
+DESCRIPTION:Evening Parent-Teacher Conferences for middle schools and D75 schools
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Evening Parent-Teacher Conferences for middle schools and D75 schools
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/09/22/default-calendar/evening-parent-teacher-conferences-for-middle-schools-and-d75-schools
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230627T000000
+DTEND:20230628T000000
+DTSTAMP:20220909T020154Z
+UID:80ae8c38-0fff-4a56-a11a-0dc34570a6f5
+CREATED:20220909T020154Z
+DESCRIPTION:Last day of school for students
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Last day of school for students
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/06/27/default-calendar/last-day-of-school-for-students
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221226T000000
+DTEND:20230103T000000
+DTSTAMP:20220909T020155Z
+UID:60ca6f0d-483c-4aaa-a904-9fb224769c28
+CREATED:20220909T020155Z
+DESCRIPTION:Winter Recess, schools closed  December 26&ndash;January 2
+LAST-MODIFIED:20220909T020155Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Winter Recess, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/12/26/default-calendar/winter-recess-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230421T000000
+DTEND:20230422T000000
+DTSTAMP:20220909T020154Z
+UID:ac329e98-5d37-40f0-9342-ac0dd8d0847b
+CREATED:20220909T020154Z
+DESCRIPTION:Eid al-Fitr, schools closed
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Eid al-Fitr, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/04/21/default-calendar/eid-al-fitr-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220908T000000
+DTEND:20220909T000000
+DTSTAMP:20220909T020154Z
+UID:0e4be005-28ef-4c92-835a-16d179f110a5
+CREATED:20220909T020154Z
+DESCRIPTION:First day of school
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:First day of school
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/09/08/default-calendar/first-day-of-school
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230116T000000
+DTEND:20230117T000000
+DTSTAMP:20220909T020155Z
+UID:ebaa9094-dd2b-49de-87c1-95121f42132c
+CREATED:20220909T020155Z
+DESCRIPTION:Rev. Dr. Martin Luther King Jr. Day, schools closed
+LAST-MODIFIED:20220909T020155Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rev. Dr. Martin Luther King Jr. Day, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/01/16/default-calendar/rev.-dr.-martin-luther-king-jr.-day-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221109T000000
+DTEND:20221110T000000
+DTSTAMP:20220909T020154Z
+UID:5c8e2eef-c8e7-4989-bef1-5f325cb013c1
+CREATED:20220909T020154Z
+DESCRIPTION:Afternoon and Evening Parent-Teacher Conferences for middle schools and D75 schools; students in these schools dismissed three hours early.
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Afternoon and Evening Parent-Teacher Conferences for middle schools and D75 schools; students in these schools dismissed three hours early.
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/11/09/default-calendar/afternoon-and-evening-parent-teacher-conferences-for-middle-schools-and-d75-schools-students-in-these-schools-dismissed-three-hours-early
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230316T000000
+DTEND:20230317T000000
+DTSTAMP:20220909T020155Z
+UID:3a36c487-9772-4bc4-a278-b43187d5a604
+CREATED:20220909T020155Z
+DESCRIPTION:Afternoon and Evening Parent-Teacher Conferences for middle schools and D75 schools; students in these schools dismissed three hours early.
+LAST-MODIFIED:20220909T020155Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Afternoon and Evening Parent-Teacher Conferences for middle schools and D75 schools; students in these schools dismissed three hours early.
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/03/16/default-calendar/afternoon-and-evening-parent-teacher-conferences-for-middle-schools-and-d75-schools-students-in-these-schools-dismissed-three-hours-early
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230131T000000
+DTEND:20230201T000000
+DTSTAMP:20220909T020154Z
+UID:c356b227-377a-4f65-90ba-1731fd722b08
+CREATED:20220909T020154Z
+DESCRIPTION:Spring Semester begins
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring Semester begins
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/01/31/default-calendar/spring-semester-begins
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230130T000000
+DTEND:20230131T000000
+DTSTAMP:20220909T020154Z
+UID:796276c9-3be1-4bcf-abf0-7bd02a3809ab
+CREATED:20220909T020154Z
+DESCRIPTION:Professional Development Day for high schools and 6&ndash;12 schools; students in these schools do not attend.
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Professional Development Day for high schools and 6–12 schools; students in these schools do not attend.
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/01/30/default-calendar/professional-development-day-for-high-schools-and-6-12-schools-students-in-these-schools-do-not-attend
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230608T000000
+DTEND:20230609T000000
+DTSTAMP:20220909T020154Z
+UID:308b7ae3-9388-4940-9abc-3b11c63978d1
+CREATED:20220909T020154Z
+DESCRIPTION:Anniversary Day / Chancellor's Conference Day for staff development; students do not attend.
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Anniversary Day / Chancellor's Conference Day for staff development; students do not attend.
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/06/08/default-calendar/anniversary-day-chancellor-s-conference-day-for-staff-development-students-do-not-attend
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230504T000000
+DTEND:20230505T000000
+DTSTAMP:20220909T020154Z
+UID:f2a906de-fbad-48d4-b4f3-04b490e9536a
+CREATED:20220909T020154Z
+DESCRIPTION:Evening Parent-Teacher Conferences for elementary schools and Pre-K Centers
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Evening Parent-Teacher Conferences for elementary schools and Pre-K Centers
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/05/04/default-calendar/evening-parent-teacher-conferences-for-elementary-schools-and-pre-k-centers
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221111T000000
+DTEND:20221112T000000
+DTSTAMP:20220909T020154Z
+UID:2a3249fe-85d5-4c81-a1b2-84ba0013039e
+CREATED:20220909T020154Z
+DESCRIPTION:Veterans Day, schools closed
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Veterans Day, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/11/11/default-calendar/veterans-day-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230609T000000
+DTEND:20230610T000000
+DTSTAMP:20220909T020154Z
+UID:07d9d9c6-f8a1-43cd-aa62-e3bd5abbe202
+CREATED:20220909T020154Z
+DESCRIPTION:Clerical Day for elementary schools, middle schools, K&ndash;12 schools, and standalone D75 programs; students in these schools do not attend.
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Clerical Day for elementary schools, middle schools, K–12 schools, and standalone D75 programs; students in these schools do not attend.
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/06/09/default-calendar/clerical-day-for-elementary-schools-middle-schools-k-12-schools-and-standalone-d75-programs-students-in-these-schools-do-not-attend
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221117T000000
+DTEND:20221118T000000
+DTSTAMP:20220909T020154Z
+UID:64a5faf1-68e8-4f39-8eb8-ad59ae504bab
+CREATED:20220909T020154Z
+DESCRIPTION:Evening Parent-Teacher Conferences for high schools, K&ndash;12, and 6&ndash;12 schools
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Evening Parent-Teacher Conferences for high schools, K–12, and 6–12 schools
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/11/17/default-calendar/evening-parent-teacher-conferences-for-high-schools-k-12-and-6-12-schools
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230407T000000
+DTEND:20230408T000000
+DTSTAMP:20220909T020154Z
+UID:5fda05e1-92dd-4e7c-a8b9-6da91527d151
+CREATED:20220909T020154Z
+DESCRIPTION:Second Day of Passover / Good Friday, schools closed
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Second Day of Passover / Good Friday, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/04/07/default-calendar/second-day-of-passover-good-friday-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230518T000000
+DTEND:20230519T000000
+DTSTAMP:20220909T020154Z
+UID:1e9c8cd3-a427-498e-8e9d-82ac5a45047d
+CREATED:20220909T020154Z
+DESCRIPTION:Evening Parent-Teacher Conferences for high schools, K&ndash;12, and 6&ndash;12 schools
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Evening Parent-Teacher Conferences for high schools, K–12, and 6–12 schools
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/05/18/default-calendar/evening-parent-teacher-conferences-for-high-schools-k-12-and-6-12-schools
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230124T000000
+DTEND:20230128T000000
+DTSTAMP:20220909T020155Z
+UID:c09dd6cd-ab7e-4c83-9db6-561319284a76
+CREATED:20220909T020155Z
+DESCRIPTION:Regents Administration  January 24&ndash;27
+LAST-MODIFIED:20220909T020155Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Regents Administration
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/01/24/default-calendar/regents-administration
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221005T000000
+DTEND:20221006T000000
+DTSTAMP:20220909T020154Z
+UID:c886a077-e53b-4a6a-9aa2-8936ffedcf9e
+CREATED:20220909T020154Z
+DESCRIPTION:Yom Kippur, schools closed
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Yom Kippur, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/10/05/default-calendar/yom-kippur-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221103T000000
+DTEND:20221104T000000
+DTSTAMP:20220909T020154Z
+UID:e74fb14a-8a6d-43b8-acd8-a2680873bbec
+CREATED:20220909T020154Z
+DESCRIPTION:Afternoon and Evening Parent-Teacher Conferences for elementary schools; students in these schools dismissed three hours early.
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Afternoon and Evening Parent-Teacher Conferences for elementary schools; students in these schools dismissed three hours early.
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/11/03/default-calendar/afternoon-and-evening-parent-teacher-conferences-for-elementary-schools-students-in-these-schools-dismissed-three-hours-early
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20230220T000000
+DTEND:20230225T000000
+DTSTAMP:20220909T020155Z
+UID:9813369a-f289-4536-a6c8-96f95a774bda
+CREATED:20220909T020155Z
+DESCRIPTION:Midwinter Recess, schools closed  February 20&ndash;24
+LAST-MODIFIED:20220909T020155Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Midwinter Recess, schools closed
+URL:www.schools.nyc.gov/calendar/contentdetails/2023/02/20/default-calendar/midwinter-recess-schools-closed
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20221108T000000
+DTEND:20221109T000000
+DTSTAMP:20220909T020154Z
+UID:45dbe9c0-1b7f-4b18-9bac-d223b152d6e3
+CREATED:20220909T020154Z
+DESCRIPTION:Election Day, students do not attend school
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Election Day, students do not attend school
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/11/08/default-calendar/election-day-students-do-not-attend-school
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220915T000000
+DTEND:20220916T000000
+DTSTAMP:20220909T020154Z
+UID:65e0035d-4d0f-4133-a699-b4cba7015e25
+CREATED:20220909T020154Z
+DESCRIPTION:Evening Parent-Teacher Conferences for elementary schools and Pre-K Centers
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Evening Parent-Teacher Conferences for elementary schools and Pre-K Centers
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/09/15/default-calendar/evening-parent-teacher-conferences-for-elementary-schools-and-pre-k-centers
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220929T000000
+DTEND:20220930T000000
+DTSTAMP:20220909T020154Z
+UID:cb64fa44-4bb9-483e-9f37-cb8a63bf92eb
+CREATED:20220909T020154Z
+DESCRIPTION:Evening Parent-Teacher Conferences for high schools, K&ndash;12, and 6&ndash;12 schools
+LAST-MODIFIED:20220909T020154Z
+LOCATION:     
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Evening Parent-Teacher Conferences for high schools, K–12, and 6–12 schools
+URL:www.schools.nyc.gov/calendar/contentdetails/2022/09/29/default-calendar/evening-parent-teacher-conferences-for-high-schools-k-12-and-6-12-schools
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
