@@ -1,4 +1,4 @@
-PERIOD=2024-2025
+PERIOD=2025-2026
 
 output/$(PERIOD).ics:
 	mkdir $(PERIOD)
